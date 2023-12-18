@@ -1,0 +1,25 @@
+/* colors: https://coolors.co/ce375a-d5627b-f5f3e6-24100b-f4c33e-6478b9
+main bg: #EDEDED
+main accent: #D4DBEA
+secondary accent: #EBCCD8
+tertiary accent: #D34A6A
+main font: #1F1F23
+lighter font: #777777
+contrast font color: #F5F3E6
+extra 1: #27283A
+extra 2: #6478B9
+
+
+-- -- -- -- --
+
+fonts: 
+font-family: 'Poppins', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Rubik', sans-serif;
+*/
+
+body {
+  background-color: #EDEDED;
+  color: #1F1F23;
+  font-family: 'Poppins', Calibri, sans-serif;
+}

@@ -1,0 +1,22 @@
+.login-page-container {
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: normal;
+}
+
+.login-page-title {
+    margin: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.login-page-h2 {
+    text-align: center;
+    font-size: 1.75rem;
+    margin: 0;
+    letter-spacing: 0.75px;
+}
