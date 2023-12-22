@@ -1,8 +1,6 @@
-# React + Vite
+# iFio Password Vault project
+This README will get updated as I develop the project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
+This is a project that is inspired in the password handling that a backend server usually is incharge of. I wanted to challenge myself and build a responsive web application that allows you to create an account, log in and give you access, all from the frontend.
+From my understanding at this point in time, I should be able to execute this successfully.

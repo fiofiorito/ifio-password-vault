@@ -7,8 +7,9 @@
     gap: 2rem;
 }
 
-.main-page-h3 {
-    margin-top: 0;
+.main-page-img {
+    width: 90%;
+    margin: auto;
 }
 
 @media (min-width: 700px) {
